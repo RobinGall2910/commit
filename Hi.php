@@ -1,4 +1,4 @@
-<php>
+?php
 <head>
 <title>
 PornHub
@@ -7,4 +7,4 @@ PornHub
 <body>
 Welcome! pomf?
 </body>
-</php>
+/?php
