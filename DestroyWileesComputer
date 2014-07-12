@@ -1,0 +1,77 @@
+@echo off
+
+title Cyber Attack Sequence Initiation
+color 02
+echo Warning-Complete File Corruption imminent.
+timeout /t 3 /nobreak >nul
+CLS
+echo Complete file corruption and computer shutdown in 10
+timeout /t 1 /nobreak >nul
+ClS
+echo Complete file corruption and computer shutdown in 9
+timeout /t 1 /nobreak >nul
+ClS
+echo Complete file corruption and computer shutdown in 8
+timeout /t 1 /nobreak >nul
+CLS
+echo Complete file corruption and computer shutdown in 7
+timeout /t 1 /nobreak >nul
+CLS
+echo Complete file corruption and computer shutdown in 6
+timeout /t 1 /nobreak >nul
+CLS
+echo Complete file corruption and computer shutdown in 5
+timeout /t 1 /nobreak >nul
+CLS
+echo Complete file corruption and computer shutdown in 4
+timeout /t 1 /nobreak >nul
+CLS
+echo Complete file corruption and computer shutdown in 3
+timeout /t 1 /nobreak >nul
+CLS
+echo Complete file corruption and computer shutdown in 2
+timeout /t 1 /nobreak >nul
+CLS
+echo Complete file corruption and computer shutdown in 1
+timeout /t 1 /nobreak >nul
+CLS
+echo File corruption and computer shutdown initiated
+timeout /t 3 /nobreak >nul
+CLS
+echo Corrupting Critical System Files...
+echo del* *
+timeout /t 2 /nobreak >nul
+echo The System cannot find the file specified.
+echo:
+echo:
+echo:
+echo:
+echo:
+echo Corrupting Root Partition...
+echo del C:\Windows
+timeout /t 2 /nobreak >nul
+echo Deletion Successful!
+echo:
+echo:
+echo:
+echo:
+echo:
+echo:
+echo:
+echo Disabling Windows Firewall...
+echo Killing all processes...
+timeout /t 2 /nobreak >nul
+echo Allowing virus to boot from startup...
+timeout /t 2 /nobreak >nul
+echo:
+echo:
+echo:
+echo:
+echo:
+echo Virus has been executed successfully!
+echo:
+echo:
+echo Have Fun!
+timeout /t 2 /nobreak >nul
+
+shutdown -s -t 45 /c  Your computer has committed suicide. Have a nice day.
