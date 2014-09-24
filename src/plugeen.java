@@ -1,5 +1,5 @@
 
-public class plugeen extends Plugin
+public class plugeen extends Plugin // Pls
 {
     public static void enable()
     {
@@ -10,5 +10,5 @@ public class plugeen extends Plugin
     
     }
 }
-BREAK BREAK
-BREAK
+BREAK BREAK // Pls
+BREAK // Pls
