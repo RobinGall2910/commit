@@ -1,4 +1,4 @@
-?php
+?php // Pls wtf is this
 <head>
 <title>
 PornHub
