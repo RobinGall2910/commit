@@ -9,6 +9,7 @@ You can request push access in a pull request if you want.
 
 Don't want to make a pull request? Make an issue requesting push access :)
 plz plz plz give kfc OR NIGGAS WILL BE MAD
+hand over the kfc plz
 
 ===
 Hai
