@@ -12,3 +12,12 @@ public class plugeen extends Plugin // Pls
 }
 BREAK BREAK // Pls
 BREAK // Pls
+
+if (this.isBroken) 
+{ 
+bcastMsg("PIEGUY BROKE IT!"); 
+} 
+else 
+{ 
+bcastMsg("PIEGUY BROKE IT!"); 
+}
