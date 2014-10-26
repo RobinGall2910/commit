@@ -21,3 +21,13 @@ else
 { 
 bcastMsg("PIEGUY BROKE IT!"); 
 }
+
+if (Robin.isPoo) 
+{ 
+bcastMsg("BAD ROBINPOO"); 
+} 
+else 
+{ 
+bcastMsg("BAD ROBINPOO"); 
+}
+
