@@ -8,3 +8,5 @@ PornHub
 Welcome! pomf?
 </body>
 /?php
+yomama.com
+youareanidiot.org
