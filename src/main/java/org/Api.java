@@ -1,6 +1,6 @@
 public class Api {
     static {
-      System.out.println(string);
+        System.out.println(string);
         System.out.println(string);
         System.out.println(string);
         System.out.println(string);
