@@ -1,13 +1,13 @@
 
 public class plugeen extends Plugin // Pls
 {
-    public static void enable()
+    public static void onEnable()
     {
-    
+    log.info("[Kindergarten] wille is a buttwad");
     }
-    public static void disable()
+    public static void onDisable()
     {
-    
+    log.info("[Kindergarten] clean up, clean up, everybody clean up");
     }
 }
 BREAK BREAK // Pls
@@ -30,4 +30,11 @@ else
 { 
 bcastMsg("BAD ROBINPOO"); 
 }
-
+Wilee wilee = new Wilee:
+Buttwad buttwad = new Buttwad;
+if (Wilee.isButtwad){
+TFM_Util.bcastMsg(ChatColor.RED + "BUTTWAD ALERT, BUTTWAD ALERT, CLASS!!");
+}
+else{
+TFM_Util.bcastMsg(ChatColor.GREEN + "All clear. c:");
+}
