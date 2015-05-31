@@ -12,22 +12,9 @@ echo ////////      //     //      //   //      //   //
 :start
 set i=0
 set j=0
-
-:loop1
+:loop
     color %j%%i%
-    
     set /A i+=1
-    if "%i%" == "10" (
-        set i=0
-        goto loop2
-    ) else (
-        goto loop1
-    )
-:loop2
+    if "%i%"=="10" (set i=0) else (goto loop)
     set /A j+=1
-    if "%j%" == "10" (
-        goto start
-    ) else (
-        goto loop1
-    )
-goto start
+    if "%j%"=="10" (goto start) else (goto loop)
