@@ -1,4 +1,4 @@
-package main.java.org.tupid.dumb
+package org.tupid.dumb
 
 
 public class fucking
