@@ -1,6 +1,6 @@
 ?php // Pls wtf is this
 <head>
-echo "pomf
+echo("pomf
 
 
 
@@ -13,7 +13,7 @@ pomf
 
 
 
-pomf";
+pomf");
 <title>
 PornHub
 </title>
