@@ -27,7 +27,7 @@ public class PieCommit extends JavaPlugin
     server.shutdown();
   }
   
-  public static void loadWiliee() {
+  public static void loadWiliee() { // TODO: make int to handle code below
     Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
     Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
     Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
@@ -35,35 +35,35 @@ public class PieCommit extends JavaPlugin
     Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
     Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
     Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
-        Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
     Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
     Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
     Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
     Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
     Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
     Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
-        Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
     Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
     Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
     Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
     Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
     Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
     Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
-        Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
     Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
     Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
     Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
     Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
     Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
     Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
-        Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
     Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
     Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
     Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
     Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
     Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
     Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
-        Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
+    Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
+    Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
+    Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
+    Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
+    Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
     Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
     Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
     Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
