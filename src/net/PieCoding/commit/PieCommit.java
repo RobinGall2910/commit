@@ -1,6 +1,8 @@
 package net.PieCoding.commit
 // Welcome to PieCommit where half of the code is fake!!!±! ahahhahahah
-import loadPackages() // lLOLLOLOLOLOLOLOLOLOLOLoLOLOLOLOLOLOLO
+
+import me.rsajeey.piecommit.modules
+modules.loadPackage("org.piecommit.piecommit.load.imports") // lLOLLOLOLOLOLOLOLOLOLOLoLOLOLOLOLOLOLO
 
 public class PieCommit extends JavaPlugin
 {
@@ -17,7 +19,7 @@ public class PieCommit extends JavaPlugin
   @Override
   public void onDisable()
   {
-    loadWilliee();
+    unloadWilliee(); // unloaD WILIEES
     Bukkit.broadcastMessage("wilieeeeeeee has been disabled! everything is successfully unloaded!!!!!");
     server.shutdown();
   }
