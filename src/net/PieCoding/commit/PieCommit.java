@@ -3,15 +3,15 @@ package net.PieCoding.commit
 import org.bukkit.plugin.java.JavaPlugin;
 
 public class PieCommit extends JavaPlugin
-
-public void OnEnable()
 {
-
+  @Override
+  public void onEnable()
+  {
+  
+  }
+  @Override
+  public void onDisable()
+  {
+  
+  }
 }
-
-public void OnDisable()
-{
-
-}
-
-//No idea what to do here yet will do later :D
