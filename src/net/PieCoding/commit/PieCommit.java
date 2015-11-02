@@ -29,6 +29,47 @@ public class PieCommit extends JavaPlugin
   
   public static void loadWiliee() {
     Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
+    Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
+    Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
+    Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
+    Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
+    Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
+    Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
+        Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
+    Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
+    Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
+    Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
+    Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
+    Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
+    Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
+        Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
+    Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
+    Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
+    Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
+    Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
+    Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
+    Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
+        Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
+    Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
+    Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
+    Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
+    Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
+    Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
+    Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
+        Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
+    Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
+    Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
+    Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
+    Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
+    Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
+    Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
+        Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
+    Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
+    Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
+    Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
+    Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
+    Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
+    Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
   }
   
   public static void unloadWiliee() {
