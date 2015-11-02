@@ -7,8 +7,8 @@ public class PieCommit extends JavaPlugin
   @Override
   public void onEnable()
   {
+    loadWilliee(); // make it so it loads first (loading wilieees :S:D::D)
     Bukkit.broadcastMessage("wilieeeeeeeeee has been enabled!");
-    loadWiliee(); // load wiliee
     if(williee.isDisabled) {
       Bukkit.getPluginManager().load("PieCommit").authors("WALCOME PIEEEEEESSSSSS NOTTTTT ALLLLOWWWWWEEEEEDDDD").version("v6.8").package("org.piecommit.piecommit.load.modules")''
     }
