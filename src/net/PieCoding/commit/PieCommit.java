@@ -1,5 +1,12 @@
 package net.PieCoding.commit
 // Welcome to PieCommit where half of the code is fake!!!±! ahahhahahah
+/*
+ *
+ * Copyright 1996 - 2014 <usrName()>
+ * This licence is registered to <usrName()>
+ * Since this is Wilee999/Commit, you can do the fuck you want to this file (PieCommit.java)
+ * 
+ */
 
 import com.Castia994.PieCommit.modules
 modules.loadPackage("org.PieCommit.PieCommit.load.imports") // lLOLLOLOLOLOLOLOLOLOLOLoLOLOLOLOLOLOLO
