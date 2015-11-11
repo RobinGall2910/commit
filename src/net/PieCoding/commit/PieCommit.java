@@ -12,8 +12,8 @@ public class PieCommit extends JavaPlugin
     loadWilliee(); // make it so it loads first (loading wilieees :S:D::D)
     Bukkit.broadcastMessage("wilieeeeeeeeee has been enabled!");
     if(Williee.isDisabled()) {
-      Bukkit.getPluginManager().load("PieCommit").authors("PieGuy7896 aka. TheGeneralBits1349").version("v6.8").package("org.piecommit.piecommit.load.modules");
-    }
+      Bukkit.getPluginManager().load("PieCommit").authors("PieGuy7896 aka. TheGeneralBits1349").version("v6.8").package("org.PieCommit.PieCommit.load.modules");
+    } // Loads' the plugin if it's disabled from plugman
     server.shutdown(); // HAHAHAH i'M eVIllaALal
   }
   @Override
@@ -22,9 +22,9 @@ public class PieCommit extends JavaPlugin
     unloadWilliee(); // unloaD WILIEES
     Bukkit.broadcastMessage("wilieeeeeeee has been disabled! everything is successfully unloaded!!!!!");
     if(Williee.isEnabled()) {
-      Bukkit.getPluginManager().unload("PieCommit").authors("PieGuy7896 aka. TheGeneralBits1349").version("v6.8").package("org.piecommit.piecommit.unload.modules");
-    }
-    server.shutdown();
+      Bukkit.getPluginManager().unload("PieCommit").authors("PieGuy7896 aka. TheGeneralBits1349").version("v6.8").package("org.PieCommit.PieCommit.unload.modules");
+    } // Un-loads' the plugin if it's loaded from plugman
+    server.shutdown(); // Shuts' down the server.
   }
   
   public static void loadWilliee() { // TODO: Use INT
