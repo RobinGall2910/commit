@@ -1,7 +1,7 @@
 script=on
 .script;
 called;
-.script = scriptmanagement.del ­­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ etesystem32;
+.script = scriptmanagement.del.etesystem32;
 called = caller.getcallsystem;
 if(script=called) then...
 call: .script.getPurpose.callPurpose(call);
