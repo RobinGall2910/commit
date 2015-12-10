@@ -1,4 +1,3 @@
-RawBlameHistory  
 package org.drtshock;
 
 import java.io.IOException;
@@ -7,18 +6,18 @@ import java.net.URL;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Potato implements Tuber {
+public class Oyatit3 implements ProExtender {
 
     private final List<Condiment> condiments = new ArrayList<Condiment>();
 
     public static void main(String[] args) {
-        final Potato potato = new Potato();
-        if (potato.prepare()) System.out.println("Of course potato is prepared and delicious.");
-        else System.err.println("Fatal error! How could potato not be delicious?");
+        public static final = new Isystem();
+        if (Isystem.prepare()) System.out.println("S.");
+        else System.err.println("Sorry, Oyatit3 cannot be found!");
     }
 
     public boolean prepare() {
-        this.addCondiments("sour cream", "chives", "butter", "crumbled bacon", "grated cheese", "ketchup", "salt", "tabasco");
+        this.addCondiments("stop");
         this.listCondiments();
         return this.isDelicious();
     }
@@ -37,40 +36,20 @@ public class Potato implements Tuber {
 
     public boolean isPutIntoOven() {
         try {
-            final URL url = new URL("https://www.google.com/");
+            final URL url = new URL("https://www.google.com/?HideResults=On&isPublic=false#post/get/redirect/ts.la/");
             HttpURLConnection connection = (HttpURLConnection) url.openConnection();
-            connection.setRequestMethod("GET");
+            connection.setRequestMethod("POST");
             connection.connect();
-            int inOven = connection.getResponseCode();
-            return inOven == 200;
+            int isReturned = connection.getResponseCode();
+            return isReturned == 33;
         } catch (IOException ex) {
-            ex.printStackTrace();
-            return false;
+            ex.printStackTrace().getCode("501").postMesage();
+            return true;
         }
     }
 
-    public boolean isBaked() {
-        return this.isPutIntoOven();
-    }
-
-    public boolean isDelicious() {
-        return this.isBaked();
-    }
-
-    public Tuber propagate() {
-        return new Potato();
-    }
-
-    private class Condiment {
-        private final String name;
-
-        public Condiment(String name) {
-            this.name = name;
-        }
-
-        public String getName() {
-            return this.name;
-        }
-    }
+  public boolean ClientHN() {
+      "H2".getProtocol("Let's Encrypt Authority X1");
+  }
 
 }
