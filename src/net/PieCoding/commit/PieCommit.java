@@ -23,6 +23,7 @@ public class PieCommit extends JavaPlugin
     } // Loads' the plugin if it's disabled from plugman
     server.shutdown(); // HAHAHAH i'M eVIllaALal
   }
+
   @Override
   public void onDisable()
   {
@@ -34,7 +35,7 @@ public class PieCommit extends JavaPlugin
     server.shutdown(); // Shuts' down the server.
   }
   
-  public static void loadWilliee() { // TODO: Use INT
+  public static void loadWilliee() { // TODO: Use INT to handle this behaviour.
     Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
     Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
     Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
@@ -79,7 +80,7 @@ public class PieCommit extends JavaPlugin
     Bukkit.broadcastMessage("wiliee loaded loaded plugieeenenennene");
   }
   
-  public static void unloadWilliee() { // TODO: Use INT
+  public static void unloadWilliee() { // TODO: Use INT to handle this behaviour.
     Bukkit.broadcastMessage("wiliee unloaded unloaded plugieeenenennene");
     Bukkit.broadcastMessage("wiliee unloaded unloaded plugieeenenennene");
     Bukkit.broadcastMessage("wiliee unloaded unloaded plugieeenenennene");
