@@ -12,7 +12,7 @@ function() {
 */this.androidTools.newProtoype = function() {
   var a = this.getnewNandId.options().bind(!= 4, => 8);
   console.log(a);
-  if (this.config.version) version.get().loadPackages(this, bind(this.commandHandler.registerModules());
-};*/
+  if (this.config.version()) version.get().loadPackages(this, bind(this.commandHandler.registerModules());
+};/*
 
 this.androidTools.port = function() {// nothing just override that fucking cock sucking port stealers};
