@@ -1,6 +1,6 @@
 function() {
   this.bind();
-  this.androidTools.bind(this, 9);
+  this.androidTools.bind(this,sjsjjsjsjsjjii
 };
 
 //var config [
