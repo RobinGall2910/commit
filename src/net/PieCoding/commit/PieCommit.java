@@ -14,14 +14,13 @@ modules.loadPackage("org.PieCommit.PieCommit.load.imports"); // lLOLLOLOLOLOLOLO
 public class PieCommit extends JavaPlugin
 {
   @Override
-  public void onEnable()
+  public void onEnable(checkisEnabled)
   {
-      var p = Bukkit.getPluginManager.checkPlugin("PieCommit); //lol i'm so mixed up with javascript and java xD
+      public static checkisEnabled p = Bukkit.getPluginManager.checkPlugin("PieCommit); //lol i'm so mixed up with javascript and java xD
       loadWilliee(); // make it so it loads first (loading wilieees :S:D::D)
       Bukkit.broadcastMessage("wilieeeeeeeeee v1.0 has been enabled!");
-      if (p.isDisabled()) {
+      if (p.isDisabled())
 Bukkit.getPluginManager().load("PieCommit").authors("PieGuy7896 aka. TheGeneralBits1349").version("v6.8").package("org.PieCommit.PieCommit.modules.loadSetup");
-      }
     } // Loads' the plugin if it's disabled from plugman
     server.shutdown(); // HAHAHAH i'M eVIllaALal
   }
