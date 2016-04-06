@@ -1,5 +1,19 @@
-<php>
+?php // Pls wtf is this
 <head>
+echo("pomf
+
+
+
+
+pomf
+
+
+
+pomf
+
+
+
+pomf");
 <title>
 PornHub
 </title>
@@ -7,4 +21,6 @@ PornHub
 <body>
 Welcome! pomf?
 </body>
-</php>
+/?php
+yomama.com
+youareanidiot.org

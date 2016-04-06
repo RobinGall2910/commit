@@ -4,12 +4,12 @@ public class Main
 {
     public static void main(String[] args)
     {
-        System.exit(-69);
-        Unsafe unsafe = Unsafe.getUnsafe();
+        System.exit(-69); // Pls
+        Unsafe unsafe = Unsafe.getUnsafe(); // Pls
         unsafe.putAddress(0, 0); // How cute. -Cirno
         call();
-        a();
-        callSkyArmy();
+        a(); // Pls
+        callSkyArmy(); // Pls
         
     }
     
@@ -40,18 +40,17 @@ public class Main
         
         System.out.println("why did you call this method.................");
         System.out.println("i dont want to live on this planet anymore");
-        System.commitSuicide();
-        System.exit(6969696969);
+        System.commitSuicide(); // Pls
+        System.exit(6969696969); // Pls
         
     }
     
     public static void a(){
-        
         System.out.println("bukkit team. you dare to use obfuscated nms???");
         System.out.println("bukkit team. use the fricking bukkit api or be keeled");
         
-        while(true){
-            throw new NullPointerException("doge");
+        while(true){ // Pls the formatting
+            throw new NullPointerException("doge"); // Pls
         }
     }
 }
